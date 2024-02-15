@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=justcord10.justcord10"/> <span><img src="https://img.shields.io/github/followers/justcord10?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm an Intermediate Fullstack Developer from Hackreactor
+## 🎓 I'm a Fullstack Software Engineer
 ## 🎓 I also have a BS in Mathematics from UC Davis!
 
 - 🌿 Deepened my skills in intermediate full-stack development through Galvanize's program Hackreactor.
